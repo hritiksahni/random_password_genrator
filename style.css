@@ -1,0 +1,143 @@
+.box
+{
+    border: 10px solid #D5D4D8;
+    border-radius: 5%;
+    margin-bottom: 200px;
+    margin-top: 50px    ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 800px;
+    background-color: #1F2937;
+}
+
+.text_1
+{
+    padding-top: 130px;
+    padding-left: 80px;
+    color: white;
+    font-family:var();
+    font-style: normal;
+    letter-spacing: -0.025em;
+
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 40px;
+}
+.text_1_1
+{
+    color: #047857;
+    font-family: var();
+}
+.text_2
+{
+padding-top: 30px;
+padding-left: 80px;
+font-family: var();
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 28px;
+color: #D5D4D8;
+}
+button{
+    
+    margin-top: 50px;
+    margin-left: 80px;
+    padding-top: 0px;
+    color: white;
+    font-size: 25px;
+    background-color: #047857;
+    border: #047857;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+}
+.gen
+{
+    margin-top: -5px;
+    margin-left: 25px;
+    color: white;
+    font-family: var();
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+#pass1
+{
+    padding-top: 10px;
+    color: #55F991;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #273549;
+}
+.line
+{
+    margin: 20px auto;
+    height: 3px;
+    width: 70%;
+    background-color: #2F3E53;
+}
+#pass2
+{
+    padding-top: 10px;
+    color: #55F991;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #273549;
+}
+#pass3
+{
+    padding-top: 10px;
+    color: #55F991;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #273549;
+}
+#pass4
+{
+    padding-top: 10px;
+    color: #55F991;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #273549;
+}
+
+.Length{
+    width: 200px;
+    height: 50px;
+    margin-top: -10px;
+    margin-left: 100px;
+    background-color: #273549;
+    border:none;
+    padding: 5px;
+    border-radius: 6px;
+    color: #E1DCE2;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
